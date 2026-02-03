@@ -1,0 +1,2 @@
+﻿  library.cpp
+C:\Users\AHAbdulla23\source\repos\PROJECT\StaticLib1\library.cpp(47,1): error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
